@@ -1,3 +1,3 @@
 Welcome 
 
-This is my online profolio. 
+This is my online portfolio. 
